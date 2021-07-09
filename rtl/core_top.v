@@ -4,7 +4,7 @@ module core_top (
 
 
     input
-    output  [INSTR_ADDR_WIDTH-1 : 0] o_instr_addr,    // 取指地址
+    output  [INSTR_ADDR_WIDTH-1 : 0] o_instr_addr    // 取指地址
 
 );
 
