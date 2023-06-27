@@ -1,2 +1,0 @@
-`define INSTR_ADDR_WIDTH 32
-
